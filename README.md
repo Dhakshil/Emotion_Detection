@@ -8,7 +8,7 @@ This project implements a facial emotion detection system using the EfficientNet
 2. Navigate to the project directory.
 3. Create a conda environment:
 4. Install the required libraries (see `requirements.txt`).
-5. Open the Jupyter Notebook and start experimenting!
+5. Open the Pycharm and start experimenting!
 
 ## Requirements
 - numpy
@@ -20,4 +20,4 @@ This project implements a facial emotion detection system using the EfficientNet
 - efficientnet
 
 ## How to Run
-Open the `Emotion_Detection.ipynb` file in Jupyter Notebook and execute each cell.
+Open the `emotion_detection.py` file in Pycharm and start running.
